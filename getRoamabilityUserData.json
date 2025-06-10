@@ -1,0 +1,67 @@
+{
+    "userData": [
+        {
+            "mdn": "0501234577",
+            "locationId": 145,
+            "installationUrl": "LPA:1$smdp.io$4K-1S5WRB-1AG0H75",
+            "locationNameHe": "האנטילים ההולנדיים",
+            "locationNameEn": "Netherlands Antilles",
+            "packages": [
+                {
+                    "name": "1G Worldwide",
+                    "expirationDate": "30.12.2099",
+                    "originalValue": 28.1,
+                    "leftValue": 4,
+                    "unitType": "GB"
+                },
+                {
+                    "name": "2G Worldwide",
+                    "expirationDate": "30.12.2048",
+                    "originalValue": 21.1,
+                    "leftValue": 3,
+                    "unitType": "GB"
+                },
+                {
+                    "name": "3G Worldwide",
+                    "expirationDate": "30.12.2048",
+                    "originalValue": 5,
+                    "leftValue": 3,
+                    "unitType": "GB"
+                }
+            ]
+        },
+        {
+            "mdn": "0501234566",
+            "locationId": 5,
+            "installationUrl": "LPA:1$smdp.io$4K-1S5WRB-2AG0H75",
+            "locationNameHe": "ארצות הברית",
+            "locationNameEn": "United States",
+            "packages": [
+                {
+                    "name": "1G Worldwide",
+                    "expirationDate": "30.12.2099",
+                    "originalValue": 28.1,
+                    "leftValue": 4,
+                    "unitType": "דקות"
+                },
+                {
+                    "name": "2G Worldwide",
+                    "expirationDate": "30.12.2048",
+                    "originalValue": 21.1,
+                    "leftValue": 3,
+                    "unitType": "GB"
+                },
+                {
+                    "name": "3G Worldwide",
+                    "expirationDate": "30.12.2048",
+                    "originalValue": 5,
+                    "leftValue": 3,
+                    "unitType": "GB"
+                }
+            ]
+        }
+    ],
+    "errorCode": 0,
+    "errorDesc": null,
+    "popupID": null
+}
