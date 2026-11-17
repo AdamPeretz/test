@@ -1,67 +1,369 @@
 {
-    "userData": [
+  "userData": [
+    {
+      "subscriberID": "6266156",
+      "installationUrl": "LPA:1$smdpplus.net$NT2QOZ7F7VRPVECK55EL0XLE",
+      "mdn": "0558732341",
+      "packages": [
         {
-            "mdn": "0501234577",
-            "locationId": 145,
-            "installationUrl": "LPA:1$smdp.io$4K-1S5WRB-1AG0H75",
-            "locationNameHe": "האנטילים ההולנדיים",
-            "locationNameEn": "Netherlands Antilles",
-            "packages": [
-                {
-                    "name": "1G Worldwide",
-                    "expirationDate": "30.12.2099",
-                    "originalValue": 28.1,
-                    "leftValue": 4,
-                    "unitType": "GB"
-                },
-                {
-                    "name": "2G Worldwide",
-                    "expirationDate": "30.12.2048",
-                    "originalValue": 21.1,
-                    "leftValue": 3,
-                    "unitType": "GB"
-                },
-                {
-                    "name": "3G Worldwide",
-                    "expirationDate": "30.12.2048",
-                    "originalValue": 5,
-                    "leftValue": 3,
-                    "unitType": "GB"
-                }
-            ]
+          "expirationDate": "30.12.2022",
+          "expirationDateTime": "2021-12-30T17:35:00Z",
+          "currentCycleEndDate": "2026-11-09T14:30:00Z",
+          "originalValue": null,
+          "dailyDataAllowance": 3,
+          "remainingDailyDataAllowance": 0,
+          "packageType": "UNLIMITED",
+          "leftValue": null,
+          "unitType": "GB",
+          "name": "5 day 3GB Unlimited then throttled to 1MB Spain and Canary Islands",
+          "periodDays": 5
+        }
+      ],
+      "locationNameEn": "Spain and Canary Islands",
+      "locationNameHe": "ספרד",
+      "locationId": 188
+    },
+    {
+      "subscriberID": "6266154",
+      "installationUrl": "LPA:1$smdpplus.net$BIIOPKKQAFMPSJDVSI8O7ZEP",
+      "mdn": "0558732258",
+      "packages": [
+        {
+          "expirationDate": "30.12.2029",
+          "expirationDateTime": "2029-12-30T17:35:00Z",
+          "currentCycleEndDate": "2026-11-09T14:30:00Z",
+          "originalValue": null,
+          "dailyDataAllowance": 3,
+          "remainingDailyDataAllowance": 2,
+          "packageType": "UNLIMITED",
+          "leftValue": null,
+          "unitType": "GB",
+          "name": "3 day 3GB Unlimited then throttled to 1MB Spain and Canary Islands",
+          "periodDays": 3
+        }
+      ],
+      "locationNameEn": "Spain and Canary Islands",
+      "locationNameHe": "איטליה",
+      "locationId": 100
+    },
+    {
+      "subscriberID": "6266159",
+      "installationUrl": "LPA:1$smdpplus.net$BIIOPKKQAFMPSJDVSI8O7ZEP",
+      "mdn": "0551112256",
+      "packages": [
+        {
+          "expirationDate": null,
+          "expirationDateTime": null,
+          "currentCycleEndDate": "2026-11-09T14:30:00Z",
+          "originalValue": null,
+          "dailyDataAllowance": 8,
+          "remainingDailyDataAllowance": 0,
+          "packageType": "UNLIMITED",
+          "leftValue": null,
+          "unitType": "GB",
+          "name": "3 day 3GB Unlimited then throttled to 1MB Spain and Canary Islands",
+          "periodDays": 3
+        }
+      ],
+      "locationNameEn": "Spain and Canary Islands",
+      "locationNameHe": "גרמניה",
+      "locationId": 76
+    },
+    {
+      "subscriberID": "6266155",
+      "installationUrl": "LPA:1$smdpplus.net$6UH85ODMDVW09GSTK6ZXRDQN",
+      "mdn": "0558732462",
+      "packages": [
+        {
+          "expirationDate": null,
+          "expirationDateTime": null,
+          "currentCycleEndDate": null,
+          "originalValue": 5,
+          "dailyDataAllowance": 0,
+          "remainingDailyDataAllowance": 0,
+          "packageType": "REGULAR",
+          "leftValue": 5,
+          "unitType": "GB",
+          "name": "S11 UAE 5GB  14 days ",
+          "periodDays": 14
+        }
+      ],
+      "locationNameEn": "S11 MIDDLE EAST UAE",
+      "locationNameHe": "איחוד האמירויות הערביות",
+      "locationId": 213
+    },
+    {
+      "subscriberID": "9000005",
+      "installationUrl": "LPA:1$smdpplus.net$TESTONLY0000000000000005",
+      "mdn": "0550000005",
+      "packages": [
+        {
+          "expirationDateTime": "2029-12-30T17:35:00Z",
+          "currentCycleEndDate": null,
+          "originalValue": 10,
+          "dailyDataAllowance": 0,
+          "remainingDailyDataAllowance": 0,
+          "packageType": "REGULAR",
+          "leftValue": 7.5,
+          "unitType": "GB",
+          "name": "Scenario 5 regular 10GB active",
+          "periodDays": 30
+        }
+      ],
+      "locationNameEn": "France",
+      "locationNameHe": "צרפת",
+      "locationId": 70
+    },
+    {
+      "subscriberID": "9000006",
+      "installationUrl": "LPA:1$smdpplus.net$TESTONLY0000000000000006",
+      "mdn": "0550000006",
+      "packages": [
+        {
+          "expirationDateTime": "2025-10-01T10:00:00Z",
+          "currentCycleEndDate": null,
+          "originalValue": 5,
+          "dailyDataAllowance": 0,
+          "remainingDailyDataAllowance": 0,
+          "packageType": "REGULAR",
+          "leftValue": 1,
+          "unitType": "GB",
+          "name": "Scenario 6 regular 5GB expired",
+          "periodDays": 14
+        }
+      ],
+      "locationNameEn": "Czech Republic",
+      "locationNameHe": "צ'כיה",
+      "locationId": 54
+    },
+    {
+      "subscriberID": "9000007",
+      "installationUrl": "LPA:1$smdpplus.net$TESTONLY0000000000000007",
+      "mdn": "0550000007",
+      "packages": [
+        {
+          "expirationDateTime": "2027-03-01T10:00:00Z",
+          "currentCycleEndDate": null,
+          "originalValue": 5,
+          "dailyDataAllowance": 0,
+          "remainingDailyDataAllowance": 0,
+          "packageType": "REGULAR",
+          "leftValue": 4,
+          "unitType": "GB",
+          "name": "Scenario 7 regular 5GB active",
+          "periodDays": 30
         },
         {
-            "mdn": "0501234566",
-            "locationId": 5,
-            "installationUrl": "LPA:1$smdp.io$4K-1S5WRB-2AG0H75",
-            "locationNameHe": "ארצות הברית",
-            "locationNameEn": "United States",
-            "packages": [
-                {
-                    "name": "1G Worldwide",
-                    "expirationDate": "30.12.2099",
-                    "originalValue": 28.1,
-                    "leftValue": 4,
-                    "unitType": "דקות"
-                },
-                {
-                    "name": "2G Worldwide",
-                    "expirationDate": "30.12.2048",
-                    "originalValue": 21.1,
-                    "leftValue": 3,
-                    "unitType": "GB"
-                },
-                {
-                    "name": "3G Worldwide",
-                    "expirationDate": "30.12.2048",
-                    "originalValue": 5,
-                    "leftValue": 3,
-                    "unitType": "GB"
-                }
-            ]
+          "expirationDateTime": "2025-06-15T08:00:00Z",
+          "currentCycleEndDate": null,
+          "originalValue": 10,
+          "dailyDataAllowance": 0,
+          "remainingDailyDataAllowance": 0,
+          "packageType": "REGULAR",
+          "leftValue": 2,
+          "unitType": "GB",
+          "name": "Scenario 7 regular 10GB expired",
+          "periodDays": 30
         }
-    ],
-    "errorCode": 0,
-    "errorDesc": null,
-    "popupID": null
+      ],
+      "locationNameEn": "Bulgaria",
+      "locationNameHe": "בולגריה",
+      "locationId": 32
+    },
+    {
+      "subscriberID": "9000008",
+      "installationUrl": "LPA:1$smdpplus.net$TESTONLY0000000000000008",
+      "mdn": "0550000008",
+      "packages": [
+        {
+          "expirationDateTime": "2027-01-15T10:00:00Z",
+          "currentCycleEndDate": null,
+          "originalValue": 5,
+          "dailyDataAllowance": 0,
+          "remainingDailyDataAllowance": 0,
+          "packageType": "REGULAR",
+          "leftValue": 3,
+          "unitType": "GB",
+          "name": "Scenario 8 regular 5GB active",
+          "periodDays": 30
+        },
+        {
+          "expirationDateTime": null,
+          "currentCycleEndDate": null,
+          "originalValue": 10,
+          "dailyDataAllowance": 0,
+          "remainingDailyDataAllowance": 0,
+          "packageType": "REGULAR",
+          "leftValue": 6,
+          "unitType": "GB",
+          "name": "Scenario 8 regular 10GB no expiry",
+          "periodDays": 30
+        }
+      ],
+      "locationNameEn": "Cyprus",
+      "locationNameHe": "קפריסין",
+      "locationId": 53
+    },
+    {
+      "subscriberID": "9000009",
+      "installationUrl": "LPA:1$smdpplus.net$TESTONLY0000000000000009",
+      "mdn": "0550000009",
+      "packages": [
+        {
+          "expirationDateTime": "2026-11-10T20:00:00Z",
+          "currentCycleEndDate": "2026-11-18T14:30:00Z",
+          "originalValue": null,
+          "dailyDataAllowance": 3,
+          "remainingDailyDataAllowance": 1,
+          "packageType": "UNLIMITED",
+          "leftValue": null,
+          "unitType": "GB",
+          "name": "Scenario 9 unlimited expired",
+          "periodDays": 5
+        },
+        {
+          "expirationDateTime": "2026-12-20T12:00:00Z",
+          "currentCycleEndDate": null,
+          "originalValue": 5,
+          "dailyDataAllowance": 0,
+          "remainingDailyDataAllowance": 0,
+          "packageType": "REGULAR",
+          "leftValue": 4.5,
+          "unitType": "GB",
+          "name": "Scenario 9 regular 5GB active",
+          "periodDays": 30
+        }
+      ],
+      "locationNameEn": "United Kingdom",
+      "locationNameHe": "בריטניה",
+      "locationId": 214
+    },
+    {
+      "subscriberID": "9000010",
+      "installationUrl": "LPA:1$smdpplus.net$TESTONLY0000000000000010",
+      "mdn": "0550000010",
+      "packages": [
+        {
+          "expirationDateTime": "2026-10-20T15:00:00Z",
+          "currentCycleEndDate": null,
+          "originalValue": 5,
+          "dailyDataAllowance": 0,
+          "remainingDailyDataAllowance": 0,
+          "packageType": "REGULAR",
+          "leftValue": 0.5,
+          "unitType": "GB",
+          "name": "Scenario 10 regular 5GB expired",
+          "periodDays": 14
+        },
+        {
+          "expirationDateTime": "2026-11-25T18:45:00Z",
+          "currentCycleEndDate": "2026-11-18T14:30:00Z",
+          "originalValue": null,
+          "dailyDataAllowance": 3,
+          "remainingDailyDataAllowance": 1.5,
+          "packageType": "UNLIMITED",
+          "leftValue": null,
+          "unitType": "GB",
+          "name": "Scenario 10 unlimited active",
+          "periodDays": 10
+        }
+      ],
+      "locationNameEn": "Ireland",
+      "locationNameHe": "אירלנד",
+      "locationId": 98
+    },
+    {
+      "subscriberID": "9000011",
+      "installationUrl": "LPA:1$smdpplus.net$TESTONLY0000000000000011",
+      "mdn": "0550000011",
+      "packages": [
+        {
+          "expirationDateTime": "2029-12-30T23:30:00Z",
+          "currentCycleEndDate": null,
+          "originalValue": 5,
+          "dailyDataAllowance": 0,
+          "remainingDailyDataAllowance": 0,
+          "packageType": "REGULAR",
+          "leftValue": 5,
+          "unitType": "GB",
+          "name": "Scenario 11 regular, 23:30Z rolls to next day at GMT+2",
+          "periodDays": 30
+        }
+      ],
+      "locationNameEn": "Croatia",
+      "locationNameHe": "קרואטיה",
+      "locationId": 50
+    },
+    {
+      "subscriberID": "9000012",
+      "installationUrl": "LPA:1$smdpplus.net$TESTONLY0000000000000012",
+      "mdn": "0550000012",
+      "packages": [
+        {
+          "expirationDateTime": "2026-11-17T11:25:00Z",
+          "currentCycleEndDate": "2026-11-18T14:30:00Z",
+          "originalValue": null,
+          "dailyDataAllowance": 3,
+          "remainingDailyDataAllowance": 0,
+          "packageType": "UNLIMITED",
+          "leftValue": null,
+          "unitType": "GB",
+          "name": "Scenario 12 unlimited, expires 13:25 Israel time",
+          "periodDays": 5
+        }
+      ],
+      "locationNameEn": "Hungary",
+      "locationNameHe": "הונגריה",
+      "locationId": 91
+    },
+    {
+      "subscriberID": "9000013",
+      "installationUrl": "LPA:1$smdpplus.net$TESTONLY0000000000000013",
+      "mdn": "0550000013",
+      "packages": [
+        {
+          "expirationDateTime": "2026-11-17T11:21:00+02:00",
+          "currentCycleEndDate": "2026-11-18T14:30:00Z",
+          "originalValue": null,
+          "dailyDataAllowance": 3,
+          "remainingDailyDataAllowance": 0,
+          "packageType": "UNLIMITED",
+          "leftValue": null,
+          "unitType": "GB",
+          "name": "Scenario 13 unlimited, expired 11:21 Israel time (+02:00)",
+          "periodDays": 5
+        }
+      ],
+      "locationNameEn": "Portugal",
+      "locationNameHe": "פורטוגל",
+      "locationId": 163
+    },
+    {
+      "subscriberID": "9000014",
+      "installationUrl": "LPA:1$smdpplus.net$TESTONLY0000000000000014",
+      "mdn": "0550000014",
+      "packages": [
+        {
+          "expirationDateTime": "2026-12-01T12:00:00",
+          "currentCycleEndDate": null,
+          "originalValue": 5,
+          "dailyDataAllowance": 0,
+          "remainingDailyDataAllowance": 0,
+          "packageType": "REGULAR",
+          "leftValue": 5,
+          "unitType": "GB",
+          "name": "Scenario 14 regular, date without time zone",
+          "periodDays": 30
+        }
+      ],
+      "locationNameEn": "Malta",
+      "locationNameHe": "מלטה",
+      "locationId": 128
+    }
+  ],
+  "errorCode": 0,
+  "eligibleForBonus": false,
+  "tukicash": null,
+  "errorDesc": null,
+  "popupId": null
 }
