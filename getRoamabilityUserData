@@ -7,6 +7,7 @@
       "packages": [
         {
           "expirationDate": "30.12.2022",
+          "activationDateTime": "2021-12-25T17:35:00Z",
           "expirationDateTime": "2021-12-30T17:35:00Z",
           "currentCycleEndDate": "2026-11-09T14:30:00Z",
           "originalValue": null,
@@ -30,6 +31,7 @@
       "packages": [
         {
           "expirationDate": "30.12.2029",
+          "activationDateTime": "2029-12-27T17:35:00Z",
           "expirationDateTime": "2029-12-30T17:35:00Z",
           "currentCycleEndDate": "2026-11-09T14:30:00Z",
           "originalValue": null,
@@ -53,6 +55,7 @@
       "packages": [
         {
           "expirationDate": null,
+          "activationDateTime": null,
           "expirationDateTime": null,
           "currentCycleEndDate": "2026-11-09T14:30:00Z",
           "originalValue": null,
@@ -76,6 +79,7 @@
       "packages": [
         {
           "expirationDate": null,
+          "activationDateTime": null,
           "expirationDateTime": null,
           "currentCycleEndDate": null,
           "originalValue": 5,
@@ -98,6 +102,7 @@
       "mdn": "0550000005",
       "packages": [
         {
+          "activationDateTime": "2029-11-30T17:35:00Z",
           "expirationDateTime": "2029-12-30T17:35:00Z",
           "currentCycleEndDate": null,
           "originalValue": 10,
@@ -120,6 +125,7 @@
       "mdn": "0550000006",
       "packages": [
         {
+          "activationDateTime": "2025-09-17T10:00:00Z",
           "expirationDateTime": "2025-10-01T10:00:00Z",
           "currentCycleEndDate": null,
           "originalValue": 5,
@@ -142,6 +148,7 @@
       "mdn": "0550000007",
       "packages": [
         {
+          "activationDateTime": "2027-01-30T10:00:00Z",
           "expirationDateTime": "2027-03-01T10:00:00Z",
           "currentCycleEndDate": null,
           "originalValue": 5,
@@ -154,6 +161,7 @@
           "periodDays": 30
         },
         {
+          "activationDateTime": "2025-05-16T08:00:00Z",
           "expirationDateTime": "2025-06-15T08:00:00Z",
           "currentCycleEndDate": null,
           "originalValue": 10,
@@ -176,6 +184,7 @@
       "mdn": "0550000008",
       "packages": [
         {
+          "activationDateTime": "2026-12-16T10:00:00Z",
           "expirationDateTime": "2027-01-15T10:00:00Z",
           "currentCycleEndDate": null,
           "originalValue": 5,
@@ -188,6 +197,7 @@
           "periodDays": 30
         },
         {
+          "activationDateTime": null,
           "expirationDateTime": null,
           "currentCycleEndDate": null,
           "originalValue": 10,
@@ -210,6 +220,7 @@
       "mdn": "0550000009",
       "packages": [
         {
+          "activationDateTime": "2026-11-05T20:00:00Z",
           "expirationDateTime": "2026-11-10T20:00:00Z",
           "currentCycleEndDate": "2026-11-18T14:30:00Z",
           "originalValue": null,
@@ -222,6 +233,7 @@
           "periodDays": 5
         },
         {
+          "activationDateTime": "2026-11-20T12:00:00Z",
           "expirationDateTime": "2026-12-20T12:00:00Z",
           "currentCycleEndDate": null,
           "originalValue": 5,
@@ -244,6 +256,7 @@
       "mdn": "0550000010",
       "packages": [
         {
+          "activationDateTime": "2026-10-06T15:00:00Z",
           "expirationDateTime": "2026-10-20T15:00:00Z",
           "currentCycleEndDate": null,
           "originalValue": 5,
@@ -256,6 +269,7 @@
           "periodDays": 14
         },
         {
+          "activationDateTime": "2026-11-15T18:45:00Z",
           "expirationDateTime": "2026-11-25T18:45:00Z",
           "currentCycleEndDate": "2026-11-18T14:30:00Z",
           "originalValue": null,
@@ -278,6 +292,7 @@
       "mdn": "0550000011",
       "packages": [
         {
+          "activationDateTime": "2029-11-30T23:30:00Z",
           "expirationDateTime": "2029-12-30T23:30:00Z",
           "currentCycleEndDate": null,
           "originalValue": 5,
@@ -300,6 +315,7 @@
       "mdn": "0550000012",
       "packages": [
         {
+          "activationDateTime": "2026-11-12T11:25:00Z",
           "expirationDateTime": "2026-11-17T11:25:00Z",
           "currentCycleEndDate": "2026-11-18T14:30:00Z",
           "originalValue": null,
@@ -322,6 +338,7 @@
       "mdn": "0550000013",
       "packages": [
         {
+          "activationDateTime": "2026-11-12T11:21:00+02:00",
           "expirationDateTime": "2026-11-17T11:21:00+02:00",
           "currentCycleEndDate": "2026-11-18T14:30:00Z",
           "originalValue": null,
@@ -344,6 +361,7 @@
       "mdn": "0550000014",
       "packages": [
         {
+          "activationDateTime": "2026-11-01T12:00:00",
           "expirationDateTime": "2026-12-01T12:00:00",
           "currentCycleEndDate": null,
           "originalValue": 5,
